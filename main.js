@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const optionSelect = document.getElementById('option1');
     const selectedProductsContainer = document.getElementById('selected-products');
     const totalPriceElement = document.getElementById('total-price');
-    const basePrice = 39900; // Updated base price for the laptop stand
+    const basePrice = 24900; // Updated base price for the desk pad
     let selectedOptions = {};
 
     optionSelect.addEventListener('change', (e) => {
